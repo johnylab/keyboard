@@ -4,6 +4,6 @@ Smart keyboard event handlers.
 
 TODO:
 
-[ ] Tests
-[ ] NPM package
-[ ] Types
+- [ ] Tests
+- [ ] NPM package
+- [ ] Types
